@@ -5,7 +5,7 @@
 
 Historico:
 
-  [X] Corpo basido do codigo
-  [ ] Implementar IA Play
-  [ ] Refatorar Class
+   [X] Corpo basido do codigo
+   [ ] Implementar IA Play
+   [ ] Refatorar Class
   
